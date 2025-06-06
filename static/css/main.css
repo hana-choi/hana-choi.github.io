@@ -1,0 +1,53 @@
+body {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #FEF5E7;
+    font-family: sans-serif;
+}
+.main-header {
+    display: flex;
+    background-color: #F5B7B1  ;
+    padding: 20px 40px;
+    color: #ffffff;
+    border-radius: 6px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px auto;
+    max-width: 2000px;
+  }
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: 500;
+    
+}  
+
+h1 {
+    color: #000000;
+    font-size: 3.125em;
+}
+.website-header {
+    font-family:'Courier New', Courier, monospace
+}
+p {
+    font-family: sans-serif;
+}
+a {
+    color: #315e7e;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.content {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.social_icon {
+    align-items: end;
+}
